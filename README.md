@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
-
+The project was created on 31 october, 2019 and the README file was created on 24 November 2019.
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The project was to explore  US Bikeshare data with python programming skills learned.
 
 ### Files used
-Include the files used
+washington.csv 
+new_york_city.csv
+chigaco.csv 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+God Bless Udacity for giving me the opportunity to learn on the platform. www.udacity.com 
 
