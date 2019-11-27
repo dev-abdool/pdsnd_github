@@ -1,6 +1,8 @@
 ### Date created
 The project was created on 31 october, 2019 and the README.md file was created on 27 November 2019.
+
 ### Project Title
+
 Explore US Bikeshare Data
 
 ### Description
