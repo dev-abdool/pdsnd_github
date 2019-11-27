@@ -23,7 +23,7 @@ def city_input():
     print('Washington: 3')
     print(' ')
     city = input('Please choose the city for which you would like to see the Statistics: ')
-    city = city.lower()
+    city = city.upper()
     while True:     # for handling the unexpected input by user
             if city == '1' or city == 'chicago':
                 print("\nChicago City! Okay Let's go further\n")
